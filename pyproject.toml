@@ -4,11 +4,10 @@ description = "A library to load configuration parameters from multiple sources 
 homepage = "https://github.com/tr11/python-configuration"
 include = ["config/py.typed"]
 keywords = ['configuration', 'settings', 'json', 'yaml', 'toml', 'ini']
-license = "MIT"
-name = "python-configuration"
+name = "lamini-configuration"
 packages = [{ include = "config" }]
 readme = 'README.md'
-repository = "https://github.com/tr11/python-configuration"
+repository = "https://github.com/lamini-ai/lamini-configuration"
 version = "0.8.3"
 
 [tool.poetry.dependencies]
